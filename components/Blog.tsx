@@ -30,7 +30,7 @@ const Blog = () => {
         <Article />
       </div>
       <div className="flex justify-center my-20">
-        <Button>Voir plus d'actualités</Button>
+        <Button ariaLabel="Voir plus d'actualités">Voir plus d&apos;actualités</Button>
       </div>
     </section>
   )
